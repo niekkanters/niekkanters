@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niekkanters
 - 👀 I’m interested in AI/Data Science/Web Development
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Economics and Business Economics and doing a minor in Data Science
 - 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me niekkanters99@gmail.com
 
